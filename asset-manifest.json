@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lightswitch/static/css/main.91240c2a.chunk.css",
+    "main.js": "/lightswitch/static/js/main.a5fe964d.chunk.js",
+    "main.js.map": "/lightswitch/static/js/main.a5fe964d.chunk.js.map",
+    "runtime-main.js": "/lightswitch/static/js/runtime-main.0b2c9e0e.js",
+    "runtime-main.js.map": "/lightswitch/static/js/runtime-main.0b2c9e0e.js.map",
+    "static/css/2.fee7ec98.chunk.css": "/lightswitch/static/css/2.fee7ec98.chunk.css",
+    "static/js/2.172f42aa.chunk.js": "/lightswitch/static/js/2.172f42aa.chunk.js",
+    "static/js/2.172f42aa.chunk.js.map": "/lightswitch/static/js/2.172f42aa.chunk.js.map",
+    "static/js/3.81534f56.chunk.js": "/lightswitch/static/js/3.81534f56.chunk.js",
+    "static/js/3.81534f56.chunk.js.map": "/lightswitch/static/js/3.81534f56.chunk.js.map",
+    "index.html": "/lightswitch/index.html",
+    "static/css/2.fee7ec98.chunk.css.map": "/lightswitch/static/css/2.fee7ec98.chunk.css.map",
+    "static/css/main.91240c2a.chunk.css.map": "/lightswitch/static/css/main.91240c2a.chunk.css.map",
+    "static/js/2.172f42aa.chunk.js.LICENSE.txt": "/lightswitch/static/js/2.172f42aa.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/lightswitch/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2c9e0e.js",
+    "static/css/2.fee7ec98.chunk.css",
+    "static/js/2.172f42aa.chunk.js",
+    "static/css/main.91240c2a.chunk.css",
+    "static/js/main.a5fe964d.chunk.js"
+  ]
+}
